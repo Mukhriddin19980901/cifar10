@@ -11,22 +11,22 @@ Data consists of 10 different types of images in both train and test data.Each t
 # Step - 1 . 
  - Downloading model
 
-First click the buttons *windows+R*  and type *cmd* in box below clone my model from github on the black window
+-First click the buttons *windows+R*  and type *cmd* in box below clone my model from github on the black window
 
 > C:\>  git clone https://github.com/Mukhriddin19980901/cifar10.git
 
-write this command on black window.
+-write this command on black window.
  
 > cd cifar10
  
 # Step - 2 
 
-you need to upgrade your pip command to create environment
+-you need to upgrade your pip command to create environment
 
-< python.exe -m pip install --upgrade pip
+> python.exe -m pip install --upgrade pip
 
 
-Here you need to install environment module and you can create  your virtual environment(you can give any name)
+-Here you need to install environment module and you can create  your virtual environment(you can give any name)
 
 > python -m venv pip install --user virtualenv
 
