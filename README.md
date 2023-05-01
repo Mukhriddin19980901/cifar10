@@ -25,9 +25,11 @@ Data consists of 10 different types of images in both train and test data.Each t
        C:\cifar10>python.exe -m pip install --upgrade pip
 
 
-- Here you need to install environment module and you can create  your virtual environment(you can give any name)
+- Here you need to install environment module and you can create  your virtual environment
 
        C:\cifar10>python -m venv pip install --user virtualenv
+ 
+ - Give the name to the environmentyou can give any name instead *environment_name*)
 
        C:\cifar10>python -m venv environment_name
 
