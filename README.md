@@ -12,7 +12,7 @@ Data consists of 10 different types of images in both train and test data.Each t
 
 - First click the buttons *windows+R*  and type *cmd* in box below clone my model from github on the black window
 
-> C:\>  git clone https://github.com/Mukhriddin19980901/cifar10.git
+      # C:\>  git clone https://github.com/Mukhriddin19980901/cifar10.git
 
 - Write this command on black window.
  
