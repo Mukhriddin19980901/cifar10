@@ -56,4 +56,6 @@ Data consists of 10 different types of images in both train and test data.Each t
 
 - As far as validation concerned the numbers are  , validation accuracy is **79 %**  and validation loss **64 %**
 
+- [Here](https://github.com/Mukhriddin19980901/cifar10/blob/main/deploy_cifar10.ipynb) is a notebook for  deploying the model 
+
 🔴 ***If you find it useful give a star to this repo and follow me on [Kaggle](https://www.kaggle.com/muhriddinmalik) and [Linkedin](https://www.linkedin.com/in/mukhriddin-khaydarov-8a9729209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bay%2BB1xqoRZKf2DcZnvkRVw%3D%3D)***
