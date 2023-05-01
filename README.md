@@ -51,6 +51,7 @@ Data consists of 10 different types of images in both train and test data.Each t
 
 <img src="https://github.com/Mukhriddin19980901/cifar10/blob/main/pictures/cifa10.png" width="700" height="500" />
 
+
 - As far as validation concerned the numbers are  , validation accuracy is 79 %  and validation loss 64 % 
 
 If you find it useful give a star to this repo and follow me on [Kaggle](https://www.kaggle.com/muhriddinmalik)
