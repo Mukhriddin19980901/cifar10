@@ -12,36 +12,36 @@ Data consists of 10 different types of images in both train and test data.Each t
 
 - First click the buttons *windows+R*  and type *cmd* in box below clone my model from github on the black window
 
-      # C:\>  git clone https://github.com/Mukhriddin19980901/cifar10.git
+       C:\>  git clone https://github.com/Mukhriddin19980901/cifar10.git
 
 - Write this command on black window.
  
-> C:\> cd cifar10
+       C:\> cd cifar10
  
 # Step - 2 .Creating virtual environment 
 
 - You need to upgrade your pip command to create environment
 
-> C:\cifar10>python.exe -m pip install --upgrade pip
+       C:\cifar10>python.exe -m pip install --upgrade pip
 
 
 - Here you need to install environment module and you can create  your virtual environment(you can give any name)
 
-> C:\cifar10>python -m venv pip install --user virtualenv
+       C:\cifar10>python -m venv pip install --user virtualenv
 
-> C:\cifar10>python -m venv environment_name
+       C:\cifar10>python -m venv environment_name
 
 - Then you need to activate the environment
 
-> C:\cifar10>environment_name\Scripts\activate.bat
+       C:\cifar10>environment_name\Scripts\activate.bat
 
 - Install all required libraries from the *requirements.txt* file
 
-> (environment_name) C:\cifar10> pip install -r requirements.txt
+      (environment_name) C:\cifar10> pip install -r requirements.txt
 
 - Now you can work on jupyter notebook
 
-> (environment_name) C:\cifar10>jupyter notebook
+     (environment_name) C:\cifar10>jupyter notebook
 
 
 # Step - 3 . Coding
