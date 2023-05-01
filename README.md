@@ -3,7 +3,9 @@
 
 # In order to use this model you need to create the environment on you computer
 Step - 1
- <python.exe -m pip install --upgrade pip>
+ 
+<python.exe -m pip install --upgrade pip>
+
 you need to upgrade your pip command
  
 Step - 2 
