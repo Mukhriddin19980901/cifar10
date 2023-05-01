@@ -46,4 +46,7 @@ Data consists of 10 different types of images in both train and test data.Each t
 
 # Coding
  
-- Now you can see the code [here](https://github.com/Mukhriddin19980901/cifar10/blob/main/cifar10notebook.ipynb)
+- Now you can see the code [here](https://github.com/Mukhriddin19980901/cifar10/blob/main/cifar10notebook.ipynb).The model was built on CNN.Here you can compare the flactuation of training accuracy and loss after every epoch.
+
+
+<img src="https://github.com/Mukhriddin19980901/cifar10/blob/main/pictures/cifa10.png" width="700" height="500" />
